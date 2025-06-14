@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroUsuariosApp</string>
+    <string-array name="tipos_documento">
+        <item>Pasaporte</item>
+        <item>Cédula</item>
+        <item>RUC</item>
+    </string-array>
+</resources>
