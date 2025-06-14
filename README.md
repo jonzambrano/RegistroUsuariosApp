@@ -1,4 +1,4 @@
-# Interfaz de Registro de Usuarios - Android Nativo (Java)
+# Interfaz de Registro de Usuarios - Android Nativo 
 
 Este proyecto es una demostración de la construcción de una interfaz de usuario (UI) estática para una pantalla de registro de usuarios en Android nativo. El objetivo principal es replicar un diseño específico, centrándose en la maquetación con XML y el uso de componentes de Material Design.
 
